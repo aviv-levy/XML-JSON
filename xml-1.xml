@@ -1,0 +1,14 @@
+<class>	
+	<student>
+		<id type="integer">1234</id>
+		<first_name>Aviv</first_name>
+		<last_name>Levy</last_name>
+		<grades>
+			<math>100</math>
+			<history>55</history>
+			<english>90</english>
+			<hebrew>78</hebrew>
+			<sport>100</sport>
+		</grades>
+	</student>
+</class>

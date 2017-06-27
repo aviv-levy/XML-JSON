@@ -1,0 +1,16 @@
+"school":{
+	"class":{	
+		"student":{
+			"id:4896465,
+			"first_name":"Aviv",
+			"last_name":"Levy",
+			"grades":{
+				"math":100,
+				"history":55,
+				"english":90,
+				"hebrew":78,
+				"sport":100
+			}
+		}
+	}
+}
